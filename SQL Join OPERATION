@@ -1,5 +1,5 @@
-CREATE DATABASE ompad_brent;
-use ompad_brent;
+CREATE DATABASE narvaez_margarette;
+use narvaez_margarette;
 
 CREATE TABLE patients(
     patient_id int,
